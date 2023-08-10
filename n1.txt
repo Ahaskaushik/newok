@@ -1,4 +1,6 @@
 this is a new text in master branch first changes
 this is change 2
 This is change 3 done in branch1  b1
-
+changes done in git hub by pushing the file to git hub 
+now sending it back to git bash.
+change 4 done in git hub.
